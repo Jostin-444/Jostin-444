@@ -6,7 +6,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ninopina10@gmail.com)
 
-[![Instagram](https://www.instagram.com/jostin_max.bot?igsh=MW1jcDBtMWN2dm9qeQ==?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pina_dzn)
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jostin_max.bot
 
 [![tiktok](https://img.shields.io/badge/tiktok-0029V?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@the_crow_legendario_bs?_t=8pyjAicoTcE&_r=1)
 
