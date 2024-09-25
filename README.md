@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1877F2&height=120&section=header"/>
 
-## 🌟 **`JOSTIN-444`**
+## 🐦‍⬛ **`JOSTIN-444`**
 
 ![Menú Principal](https://qu.ax/RvqX.jpg)
 
