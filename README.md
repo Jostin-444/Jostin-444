@@ -14,9 +14,9 @@ https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram
 
 <a href="https://wa.me/50242073893?text=.menu"><img alt="Bot Oficial ☄️" src="https://img.shields.io/badge/Bot - Oficial-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-## <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="Grupo" width="45" height="43"> Canal Oficial 💛
+## <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="Grupo" width="45" height="43"> Canal Oficial 🐦‍⬛
 
-<a href="https://whatsapp.com/channel/0029VaoofvK59Pwb79cg4S0V?text=.menu"><img alt="Canal Oficial 💛" src="https://img.shields.io/badge/Canal - Oficial-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://whatsapp.com/channel/0029VaoofvK59Pwb79cg4S0V?text=.menu"><img alt="Canal Oficial 🐦‍⬛" src="https://img.shields.io/badge/Canal - Oficial-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 <h2 align="center"> ESTADÍSTICAS </h2>
 </div>
