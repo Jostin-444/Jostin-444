@@ -19,8 +19,17 @@
 <a href="https://whatsapp.com/channel/0029VaoofvK59Pwb79cg4S0V?text=.menu"><img alt="Canal Oficial 🐦‍⬛" src="https://img.shields.io/badge/Canal - Oficial-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 
-### ESTADÍSTICAS 🌱
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jostin-444&rank_icon=github&theme=algolia&locale=es)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jostin-444&theme=algolia&locale=es)](https://github.com/Jostin-444)
-![counter](https://komarev.com/ghpvc/?username=Jostin-444&style=flat-square&theme=algolia&locale=es)
+### ESTADÍSTICAS ⚡
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Angelito-OFC&rank_icon=github&theme=algolia&locale=es)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelito-OFC&theme=algolia&locale=es)](https://github.com/Angelito-OFC)
+![counter](https://komarev.com/ghpvc/?username=Angelito-OFC&style=flat-square&theme=algolia&locale=es)
+
+### MIS PROYECTOS FAVORITOS ⚡
+
+<a href="https://github.com/Jostin-444/Max Bot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Jostin-444&repo=Maxbot&theme=algolia&locale=es)</a>
+
+<a href="https://github.com/Jostin-444/NarutoBot-Ai">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Jostin-444&repo=NarutoBot-Ai&theme=algolia&locale=es)</a>
+
+> Powered By ム 𝐉𝐎𝐒𝐓𝐈𝐍-444 ㋰ https://li.࿇══━━━━━✥☬✥━━━━━══࿇.il
