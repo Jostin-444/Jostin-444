@@ -32,4 +32,6 @@
 
 <a href="https://github.com/Jostin-444/NarutoBot-Ai">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Jostin-444&repo=NarutoBot-Ai&theme=algolia&locale=es)</a>
 
-> Powered By ム 𝐉𝐎𝐒𝐓𝐈𝐍-444 ㋰ ࿇══━━━━━✥☬✥━━━━━══࿇.il
+> Powered By ム 𝐉𝐎𝐒𝐓𝐈𝐍-444 ㋰
+
+-https://li.࿇══━━━━━✥☬✥━━━━━══࿇.il-
