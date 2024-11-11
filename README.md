@@ -22,9 +22,9 @@
 
 ### ESTADÍSTICAS ⚡
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Angelito-OFC&rank_icon=github&theme=algolia&locale=es)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelito-OFC&theme=algolia&locale=es)](https://github.com/Angelito-OFC)
-![counter](https://komarev.com/ghpvc/?username=Angelito-OFC&style=flat-square&theme=algolia&locale=es)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jostin-444&rank_icon=github&theme=algolia&locale=es)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jostin-444&theme=algolia&locale=es)](https://github.com/Jostin-444)
+![counter](https://komarev.com/ghpvc/?username=Jostin-444&style=flat-square&theme=algolia&locale=es)
 
 ### MIS PROYECTOS FAVORITOS ⚡
 
@@ -32,4 +32,4 @@
 
 <a href="https://github.com/Jostin-444/NarutoBot-Ai">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Jostin-444&repo=NarutoBot-Ai&theme=algolia&locale=es)</a>
 
-> Powered By ム 𝐉𝐎𝐒𝐓𝐈𝐍-444 ㋰ https://li.࿇══━━━━━✥☬✥━━━━━══࿇.il
+> Powered By ム 𝐉𝐎𝐒𝐓𝐈𝐍-444 ㋰ ࿇══━━━━━✥☬✥━━━━━══࿇.il
