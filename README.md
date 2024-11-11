@@ -18,12 +18,6 @@
 
 <a href="https://whatsapp.com/channel/0029VaoofvK59Pwb79cg4S0V?text=.menu"><img alt="Canal Oficial 🐦‍⬛" src="https://img.shields.io/badge/Canal - Oficial-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-<h2 align="center"> ESTADÍSTICAS </h2>
-</div>
-<div align="center">
-<a href="https://github.com/Jostin-444/">
-<img src="https://github-readme-stats.vercel.app/api?username=Jostin-444 &include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=C372F2&icon_color=EE6FF4&text_color=D3D3D3&bg_color=0,000000,130F40&locale=es" width="450"/>
- 
 
 ### ESTADÍSTICAS 🌱
 
